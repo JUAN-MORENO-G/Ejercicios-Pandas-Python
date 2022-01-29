@@ -1,16 +1,16 @@
 # Ejercicios-Pandas-Python
 
-EJERCICIO N°1:
+## EJERCICIO N°1:
 
 
 Escribir un programa que pregunte al usuario por las ventas de los últimos 5 días, y muestre por pantalla una serie con los datos de las ventas por producto: Nro de unidades y precio unitario, indexada por los días, antes y después de aplicarles un descuento del 5%.
 
-EJERCICIO 2
+## EJERCICIO 2
 
 
 Escribir un programa que reciba un diccionario con los ingresos mensuales de los clientes de una empresa, y devuelva una serie con el ingreso mínimo, máximo y media.
 
-EJERCICIO 3
+## EJERCICIO 3
 
 
 Escribir programa que genere y muestre por pantalla un DataFrame con los datos de la tabla siguiente:
@@ -31,7 +31,7 @@ A continuación, generar nuevas columna:
 
 
 
-EJERCICIO 4
+## EJERCICIO 4
 
 
 Con el siguiente fichero Data - Riesgos.csv contiene información de riesgo de clientes de un banco. Escribir un programa con los siguientes requisitos:
